@@ -1,0 +1,4 @@
+int pictures = 10;
+float number = 2.5f;
+double speedValue = 22.5;
+long visitorsPerYear = 300000;
